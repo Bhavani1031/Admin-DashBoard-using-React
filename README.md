@@ -10,3 +10,4 @@ User Management: Built-in authentication and authorization.
 Modular Design: Easy to add or remove features.
 Custom Themes: Options to change colors and layout styles.
 High Performance: Fast load times and smooth operation.
+
