@@ -1,6 +1,7 @@
 Welcome to the React Admin Dashboard! This project provides a modern, responsive admin interface built with React.
 
-Features
+Features......
+
 Responsive Design: Works on desktops, tablets, and mobiles.
 Customizable Components: Includes various UI elements like buttons, forms, and charts.
 Data Visualization: Supports charts and graphs for data display.
